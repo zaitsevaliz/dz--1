@@ -15,7 +15,6 @@ const renderGoodsList = list => {
 
 renderGoodsList(goods);
 
-
 //стили
 let allProducts = document.querySelectorAll('.goods-item');
 allProducts.forEach(function (product) {
